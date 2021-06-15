@@ -9,8 +9,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
  🪐 ***"Quanto mais eu sei, mais eu sou"*** 🧠
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vit%C3%B3rio-guilherme-4696b31b3/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/vit%C3%B3rio-guilherme-4696b31b3//)](https://www.https://www.linkedin.com/in/vit%C3%B3rio-guilherme-4696b31b3/)
 <!--
 **Vitorio-0912/Vitorio-0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
