@@ -1,14 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-   Hey, what's up? I'm Vitório Guilherme, I'm working as a <strong>back-end developer</strong>.<br>
-   I'm studying programming and practicing a lot to become a computer master.
- 
+   Olo vai? Sou Vitório Guilherme, trabalho como <strong>Desenvolvedor Front-end</strong>.<br>
+   Estou estudando programação e praticando muito para me tornar um mestre em computação.
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" />
  
 
 
-Contact Me through the links below: ⤵️
+Entre em contato Comigo pelos links abaixo: ⤵️
 </p>
 <p align="left">
   <a href="mailto:developervitorio@gmail.com" alt="Gmail" target="_blank">
